@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GRAMMAR LANGID="804">
+  <DEFINE>
+    <ID NAME="CMD" VAL="10"/>
+    </DEFINE>
+  <RULE NAME="COMMAND" ID="CMD" TOPLEVEL="ACTIVE">
+    <L>
+      <P>我是学霸</P>
+      <P>清华土匪</P>
+      <P>天下无双</P>
+      <P>吴伟</P>
+      <P>曾彬</P>
+      <P>记事本</P>
+      <P>计算器</P>
+      <P>关机</P>
+      <P>重启</P>
+      <P>取消</P>
+      <P>画图板</P>
+      <P>何栋</P>
+      <P>林振华</P>
+      <P>聂千琳</P>
+      <P>赵学辉</P>
+      </L>
+    </RULE>
+  </GRAMMAR>
